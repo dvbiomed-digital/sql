@@ -10,7 +10,7 @@ SELECT
 , PRODUCT           
 , REGION            
 , DEALER            
-, YB001             PRIMARY KEY
+, YB001             
 , YB002             
 , YB003             
 , YB004             
