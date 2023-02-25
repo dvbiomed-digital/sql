@@ -6,7 +6,7 @@ SELECT
 , MODIFIER      
 , MODI_DATE     
 , FLAG          
-, FI001         Y KEY
+, FI001
 , FI002         
 , FI003         
 , FI004         
